@@ -20,7 +20,7 @@ export default function Navbar() {
             <a
               target="_blank"
               href="https://wa.me/905364613555"
-              className="btn btn-sm btn-primary text-sm"
+              className="btn hidden lg:flex btn-sm btn-primary text-sm"
             >
               <FaWhatsapp className="h-5 w-5" /> Contacter Maitre Hamidou
             </a>
