@@ -29,63 +29,8 @@ export default function Honoraries() {
                 facturation au client dont les modalités sont convenues dans une
                 convention d&apos;honoraires.
               </p>
-              <div className="border-b-2 border-primary pb-1  mt-5">
-                <span className="text-2xl">
-                  Le cabinet vous propose 4 modèles d&apos;honoraires
-                </span>
-              </div>
-              <div className="my-5">
-                <span className="text-2xl my-5">Temps passé</span>
-              </div>
-              <p className=" text-sm">
-                Le client rémunère le cabinet au temps passé sur l’affaire qui
-                dépend de la complexité de celle-ci.
-              </p>
-              <div className="my-5">
-                <span className="text-2xl my-5">Forfait</span>
-              </div>
-              <p className=" text-sm">
-                Usitée en matière contentieuse, le cabinet fixe un forfait
-              </p>{' '}
-              <div className="my-5">
-                <span className="text-2xl my-5">Résultat</span>
-              </div>
-              <p className=" text-sm">
-                Mode de rémunération complémentaire calculée sur le « gain » du
-                client
-              </p>
-              <div className="my-5">
-                <span className="text-2xl my-5">Abonnement</span>
-              </div>
-              <p className="text-sm">
-                Cette formule est choisie lorsque le client a recours
-                périodiquement ou régulièrement à son avocat pour des
-                prestations.
-              </p>
-              <div className="border-b-2 border-primary pb-1  mt-5">
-                <span className="text-2xl">A Savoir</span>
-              </div>
-              <div className="my-5">
-                <span className="text-2xl my-5">Protection juridique</span>
-              </div>
-              <p className=" text-sm">
-                Lorsque le client bénéficie d’une protection juridique via un
-                contrat d’assurance, les honoraires du cabinet peuvent
-                intégralement ou partiellement être pris en charge par la
-                compagnie d’assurance du client.
-              </p>
-              <div className="my-5">
-                <span className="text-2xl my-5">
-                  Indemnisation et remboursement d&apos;honoraires
-                </span>
-              </div>
-              <p className="text-sm">
-                Le code de procédure pénale (article 475-1) et le code de
-                procédure civile (article 700) donnent la possibilité pour une
-                juridiction de condamner la partie adverse à rembourser
-                partiellement ou intégralement les honoraires et frais engagés
-                lors d&apos;une procédure en justice au client.
-              </p>
+              
+             
             </div>
           </div>
           <div className="flex flex-col lg:w-2/5">
