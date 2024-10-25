@@ -77,7 +77,7 @@ export default function HomePage() {
             fermentum interdum turpis mattis ac.
           </p>
           <div className="w-full my-5 flex  justify-center">
-            <button className="btn btn-primary">
+            <button disabled className="btn btn-primary">
               En savoir plus sur HD Conseils
             </button>
           </div>
