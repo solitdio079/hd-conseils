@@ -20,7 +20,7 @@ export default function Contact() {
       </div>
       <div className="p-5 m-5">
         <p className="text-primary">
-          Contactez ME Hamidou Daou, Avocat au Bureau de Bamako
+          Contactez ME Hamidou Daou, Avocat au Barreau du Mali
         </p>
       </div>
       <div className="hero bg-secondary min-h-1/2 my-10 p-10">

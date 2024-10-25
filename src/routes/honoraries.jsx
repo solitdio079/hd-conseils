@@ -1,5 +1,5 @@
 import AnimatedLayout from "../../animation/AnimatedLayout";
-import {FaPhone, FaHouse,FaMapPin, FaCheck} from 'react-icons/fa6'
+import {FaPhone, FaHouse,FaMapPin} from 'react-icons/fa6'
 export default function Honoraries() {
     return (
       <AnimatedLayout>
@@ -59,7 +59,8 @@ export default function Honoraries() {
                   </button>
                 </div>
               </div>
-            </div>
+                    </div>
+                    { /*
             <div className="card glass w-96">
               <div className="card-body items-center text-center">
                 <h2 className="card-title">
@@ -87,7 +88,7 @@ export default function Honoraries() {
                   </button>
                 </div>
               </div>
-            </div>
+            </div> */ }
           </div>
         </div>
       </AnimatedLayout>

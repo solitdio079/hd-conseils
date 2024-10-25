@@ -1,5 +1,5 @@
 import AnimatedLayout from "../../animation/AnimatedLayout"
-import { FaCheck, FaBuilding, FaHouse, FaMapPin, FaPhone, FaWhatsapp } from "react-icons/fa6"
+import {FaHouse, FaMapPin, FaPhone, FaWhatsapp } from "react-icons/fa6"
 export default function HomePage() {
     return (
       <AnimatedLayout>
@@ -73,7 +73,7 @@ export default function HomePage() {
             </button>
           </div>
         </div>
-        <div
+        { /*<div
           className="hero min-h-1/2 my-10"
           style={{
             backgroundImage: 'url("/competence-bg.jpg")',
@@ -168,7 +168,7 @@ export default function HomePage() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="hero bg-secondary min-h-1/2 my-10 p-10">
           <div className="hero-content flex-col lg:flex-row">
             <div className="text-center lg:text-left">
