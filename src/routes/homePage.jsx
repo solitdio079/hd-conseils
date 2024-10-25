@@ -43,7 +43,7 @@ export default function HomePage() {
           </p>
           <div className="border-b-2 border-primary pb-1  mt-5">
             <span className="text-2xl">
-              Bienvenue sur le site du cabinet de HD Conseils
+              Bienvenue chez HD Conseils – Votre Partenaire Juridique à Bamako
             </span>
           </div>
           <p className="mt-4 text-sm">
@@ -64,8 +64,8 @@ export default function HomePage() {
             Notre mission est de faire de la justice un levier de protection et
             de développement pour nos clients, qu&apos;ils soient entreprises,
             institutions, ou particuliers. Avec HD Conseils, vous choisissez
-            l&apos;expertise, la réactivité et une relation de confiance bâtie sur le
-            professionnalisme et l&apos;éthique.
+            l&apos;expertise, la réactivité et une relation de confiance bâtie
+            sur le professionnalisme et l&apos;éthique.
           </p>
           <div className="w-full my-5 flex  justify-center">
             <button disabled className="btn btn-primary">
