@@ -3,9 +3,10 @@ import {
   FaMapPin,
   FaPhone,
 } from 'react-icons/fa6'
+import AnimatedLayout from '../../animation/AnimatedLayout'
 export default function Contact() {
   return (
-    <>
+    <AnimatedLayout>
       <div
         className="hero min-h-4/5"
         style={{
@@ -57,6 +58,6 @@ export default function Contact() {
           referrerPolicy="no-referrer-when-downgrade"
         ></iframe>
       </div>
-    </>
+    </AnimatedLayout>
   )
 }
