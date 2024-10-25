@@ -12,9 +12,9 @@ export default function Team() {
             <div className="card-body items-center">
               <h2 className="card-title">
                 <FaScaleUnbalanced className="h-5 w-5 m-2" />
-                Obi Wan Kenobi
+                Me Hamidou Daou
               </h2>
-              <p>We are using cookies for no reason.</p>
+              <p>Avocat au barreau du Mali</p>
             </div>
           </div>
         </div>
@@ -28,9 +28,9 @@ export default function Team() {
                 <h2 className="card-title">
                   {' '}
                   <FaScaleUnbalanced className="h-5 w-5 m-2" />
-                 Rey Palpatine
+                  Abdramane Niambele
                 </h2>
-                <p>We are using cookies for no reason.</p>
+                <p>Juriste Collaborateur</p>
               </div>
             </div>
           </div>
@@ -43,9 +43,24 @@ export default function Team() {
                 <h2 className="card-title">
                   {' '}
                   <FaScaleUnbalanced className="h-5 w-5 m-2" />
-                  Dark Vader
+                  Oumar Kampo
                 </h2>
-                <p>We are using cookies for no reason.</p>
+                <p>Juriste Collaborateur</p>
+              </div>
+            </div>
+          </div>
+          <div className="flex flex-col lg:flex-row my-3 items-center">
+            <figure>
+              <img src="/team3.jpg" width={150} />
+            </figure>
+            <div className="card glass card-bordered text-black w-96 mx-2 shadow-xl">
+              <div className="card-body items-center">
+                <h2 className="card-title">
+                  {' '}
+                  <FaScaleUnbalanced className="h-5 w-5 m-2" />
+                  Alou Camara
+                </h2>
+                <p>Juriste Collaborateur</p>
               </div>
             </div>
           </div>

@@ -18,7 +18,7 @@ export default function HomePage() {
                     ME HAMIDOU DAOU
                   </h2>
                   <p className="my-5">
-                    Avocat au Bureau de Bamako <br /> droit des affaires et de
+                    Avocat au Barreau du Mali <br /> droit des affaires et de
                     litiges de patent
                   </p>
                   <div className="card-actions justify-end">
