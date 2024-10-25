@@ -34,7 +34,7 @@ export default function HomePage() {
 
         <div className="p-5 m-5">
           <p className="text-primary">
-            ME Hamidou Daou, Avocat au Bureau de Bamako
+            ME Hamidou Daou, Avocat au Barreau du Mali
           </p>
           <div className="border-b-2 border-primary pb-1  mt-5">
             <span className="text-2xl">
