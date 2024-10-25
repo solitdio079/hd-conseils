@@ -22,8 +22,13 @@ export default function HomePage() {
                     litiges de patent
                   </p>
                   <div className="card-actions justify-end">
-                    <a target="_blank" href="https://wa.me/905364613555" className="btn btn-primary">
-                      <FaWhatsapp className="h-5 w-5"/> Contacter Maitre Hamidou
+                    <a
+                      target="_blank"
+                      href="https://wa.me/905364613555"
+                      className="btn btn-primary"
+                    >
+                      <FaWhatsapp className="h-5 w-5" /> Contacter Maitre
+                      Hamidou
                     </a>
                   </div>
                 </div>
@@ -42,39 +47,25 @@ export default function HomePage() {
             </span>
           </div>
           <p className="mt-4 text-sm">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            elementum ullamcorper libero, et pharetra erat. Nunc congue mattis
-            placerat. Etiam felis ante, cursus nec arcu non, varius molestie
-            velit. Duis aliquam et ligula nec efficitur. Integer tincidunt enim
-            vel ante sodales fringilla. Aenean egestas maximus magna vel
-            volutpat. Integer gravida lacinia nunc et tempor. Vivamus eget
-            tortor lectus. Nullam pulvinar bibendum blandit. Proin eu sagittis
-            nunc. Proin vitae leo vehicula ex convallis aliquam. Aenean faucibus
-            tortor at risus laoreet, ac mollis libero aliquam. Integer ac libero
-            quis metus pellentesque efficitur porta a ex. Ut cursus, mauris a
-            maximus consequat, nisl erat rutrum turpis, a posuere leo lectus
-            vitae est.
+            Chez HD Conseils, nous incarnons l&apos;excellence juridique et
+            l&apos;intégrité au service de nos clients. Fondé par ME Hamidou
+            Daou, avocat inscrit au barreau de Bamako, notre cabinet se
+            distingue par son approche stratégique et personnalisée,
+            garantissant des solutions juridiques adaptées aux besoins
+            spécifiques de chaque client.
           </p>
           <p className="mt-2 text-sm">
-            Suspendisse vitae tempor erat. Suspendisse dignissim odio leo, sed
-            finibus nisi vestibulum ac. In in quam pharetra elit posuere
-            sollicitudin eget ac leo. Aliquam vitae semper libero, non convallis
-            eros. Suspendisse egestas sem vel ligula cursus elementum. Curabitur
-            ornare ante magna, eu ullamcorper odio mollis a. Ut ullamcorper
-            suscipit arcu. Sed aliquam libero quis tempor iaculis. Etiam
-            scelerisque enim sed luctus posuere. Pellentesque habitant morbi
-            tristique senectus et netus et malesuada fames ac turpis egestas.
-            Etiam purus neque, faucibus et dui a, maximus rutrum tortor.{' '}
+            Nous nous engageons à défendre vos droits avec rigueur, à vous
+            conseiller avec transparence, et à vous accompagner dans la
+            complexité des démarches juridiques, qu&apos;il s&apos;agisse de
+            litiges, de contrats, ou de négociations stratégiques.
           </p>{' '}
           <p className="mt-2 text-sm">
-            Donec quis ultricies felis. Duis eget viverra urna. Mauris molestie
-            sem a quam tristique, lobortis efficitur risus posuere. Sed congue
-            vitae eros eget placerat. Sed porta porta augue nec tristique.
-            Aliquam viverra sodales elit. Cras libero massa, vestibulum sed
-            suscipit eget, pretium nec lorem. Donec id neque metus. Morbi
-            rutrum, velit eget laoreet rutrum, dui elit sodales enim, id
-            tristique ante ligula id sem. Vivamus porttitor consectetur dui,
-            fermentum interdum turpis mattis ac.
+            Notre mission est de faire de la justice un levier de protection et
+            de développement pour nos clients, qu&apos;ils soient entreprises,
+            institutions, ou particuliers. Avec HD Conseils, vous choisissez
+            l&apos;expertise, la réactivité et une relation de confiance bâtie sur le
+            professionnalisme et l&apos;éthique.
           </p>
           <div className="w-full my-5 flex  justify-center">
             <button disabled className="btn btn-primary">
